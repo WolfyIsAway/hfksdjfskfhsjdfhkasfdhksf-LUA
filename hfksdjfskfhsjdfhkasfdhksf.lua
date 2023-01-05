@@ -1,5 +1,5 @@
 function hfksdjfskfhsjdfhkasfdhksf()
-    return '🥺'    
+    return '🥺'
 end
 
 return hfksdjfskfhsjdfhkasfdhksf
